@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @estroke
-- 👀 I’m interested in databases and GUI
-- 🌱 I’m currently learning basics in software engineering and customer service
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta- ellie_wendy
 
 <!---
